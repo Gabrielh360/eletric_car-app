@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/Bielzinh360-000?style=for-the-badge&logo=instagram)](https://instagram.com/bielzinh360?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
 ## Teste o App
-Na pasta [`APP TESTE`](https://github.com/Gabrielh360/meu_primeiro_app/tree/main/APP%20TESTE) do projeto deste repositorio deixei um arquivo .APK para que você possa instalar e Testar o APP.
+Na pasta [`App Teste`](https://github.com/Gabrielh360/eletric_car-app/tree/main/App%20Teste) do projeto deste repositorio deixei um arquivo .APK para que você possa instalar e Testar o APP.
 
 ## Pré-Visualizção do APP
 <img height="300px" src="https://github.com/Gabrielh360/meu_primeiro_app/assets/91648449/d202bbf5-d21f-440e-b042-52c70cab64c5" alt="Carros">
